@@ -1,7 +1,7 @@
 {
-  "version": "0.19.0",
+  "version": "0.20.1",
   "hashes": {
-    "x86_64": "sha256-EjOFsXMKzhjxK8D0lGBuakzT9KuJH5MDbNTnG4rqcPc=",
-    "aarch64": "sha256-WUjo8Qw8AgqoyIA/GpA4ov+03ajrsbEpiByKQWstSK4="
+    "x86_64": "sha256-OYeH1Y/kaRnpnJ9W41VFVJ7wqqsAf4aakr7/fZ/lIjQ=",
+    "aarch64": "sha256-7Aeza0gGPKMNsMkEOt+G91IlW5gA3+k78sbD/MlohYg="
   }
 }
